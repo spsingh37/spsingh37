@@ -27,16 +27,16 @@ Languages:
 
 Developer Tools:
 <p align="left">
-  <img src="https://github.com/spsingh37/spsingh37/blob/main/git-logo.png" alt="Git" height="40" width="60" style="display: inline; margin-right: 50px;"/>
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/git-logo.png" alt="Git" height="50" width="60" style="display: inline; margin-right: 50px;"/>
   <img src="https://github.com/spsingh37/spsingh37/blob/main/vscode-logo.png" alt="Visual Studio Code" height="50" width="70" style="display: inline; margin-right: 50px;"/>
 </p>
 
 Libraries/Frameworks:
 <p align="left">
-  <img src="https://github.com/spsingh37/spsingh37/blob/main/PyTorch_logo_black.svg.png" alt="PyTorch" height="40" width="70" style="display: inline; margin-right: 50px;"/>
-  <img src="https://github.com/spsingh37/spsingh37/blob/main/docker-logo.png" alt="Docker" width="100" height="40" width="60" style="display: inline; margin-right: 50px;"/>
-  <img src="https://github.com/spsingh37/spsingh37/blob/main/ros-logo.png" alt="ROS" width="100" height="40" width="60" style="display: inline; margin-right: 50px;"/>
-  <img src="https://github.com/spsingh37/spsingh37/blob/main/mujoco-logo.jfif" alt="MuJoCo" width="100" height="40" width="60" style="display: inline; margin-right: 50px;"/>
-  <img src="https://github.com/spsingh37/spsingh37/blob/main/OpenCV_logo_black.png" alt="OpenCV" height="50" width="60" style="display: inline; margin-right: 50px;"/>
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/PyTorch_logo_black.svg.png" alt="PyTorch" height="50" width="70" style="display: inline; margin-right: 50px;"/>
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/docker-logo.png" alt="Docker" width="100" height="50" width="70" style="display: inline; margin-right: 50px;"/>
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/ros-logo.png" alt="ROS" width="100" height="50" width="70" style="display: inline; margin-right: 50px;"/>
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/mujoco-logo.jfif" alt="MuJoCo" width="100" height="50" width="70" style="display: inline; margin-right: 50px;"/>
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/OpenCV_logo_black.png" alt="OpenCV" height="50" width="70" style="display: inline; margin-right: 50px;"/>
   <img src="https://github.com/spsingh37/spsingh37/blob/main/solidworks-logo.png" alt="SolidWorks" height="50" width="70" style="display: inline; margin-right: 50px;"/>
 </p>
