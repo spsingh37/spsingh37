@@ -45,3 +45,24 @@ Libraries/Frameworks:
 <!--![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)-->
 <img src="https://github.com/spsingh37/spsingh37/blob/main/solidworks-logo.png" alt="SolidWorks" width="75" height="30" style="display: inline; margin-right: 10px;">
 <!--![SolidWorks](https://img.shields.io/badge/solidworks-%23F00000.svg?style=for-the-badge&logo=dassault%20syst%C3%A8mes&logoColor=white)-->
+
+Languages:
+<p align="center">
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/python-logo.png" alt="Python" height="40"/>
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/cpp_logo.png" alt="C++" height="40"/>
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/MATLAB-logo.png" alt="MATLAB" height="40"/>
+</p>
+
+Developer Tools:
+<p align="center">
+  <img src="URL_TO_GIT_LOGO" alt="Git" height="40"/>
+  <img src="URL_TO_VSCODE_LOGO" alt="Visual Studio Code" height="40"/>
+</p>
+
+Libraries/Frameworks:
+<p align="center">
+  <img src="https://example.com/PyTorch_logo_black.svg.png" alt="PyTorch" width="100" height="50"/>
+  <img src="https://example.com/solidworks-logo.png" alt="SolidWorks" width="100" height="50"/>
+  <img src="https://example.com/ros-logo.png" alt="ROS" width="100" height="50"/>
+  <img src="https://example.com/mujoco-logo.jfif" alt="MuJoCo" width="100" height="50"/>
+</p>
