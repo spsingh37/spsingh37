@@ -47,7 +47,7 @@ Libraries/Frameworks:
 <!--![SolidWorks](https://img.shields.io/badge/solidworks-%23F00000.svg?style=for-the-badge&logo=dassault%20syst%C3%A8mes&logoColor=white)-->
 
 Languages:
-<p align="center">
+<p align="left">
   <img src="https://github.com/spsingh37/spsingh37/blob/main/python-logo.png" alt="Python" height="40"/>
   <img src="https://github.com/spsingh37/spsingh37/blob/main/cpp_logo.png" alt="C++" height="40"/>
   <img src="https://github.com/spsingh37/spsingh37/blob/main/MATLAB-logo.png" alt="MATLAB" height="40"/>
