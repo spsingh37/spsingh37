@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 I'm Surya</h1>
 
 # 💫 About Me:
-I am a graduate from the Robotics MS department of University of Michigan, working as a Perception & Learning Research Assistant at the ROAHM Lab. I'm passionate about building machine learning and computer vision tools for autonomous systems more specifically robot control, scene understanding, SLAM, state estimation, and motion planning. I also like deploying AI in other applications such as heathcare to make meaningful impact.
+I am a recent graduate from the Robotics MS program at the University of Michigan and currently work as a Perception & Learning Research Assistant at the ROAHM Lab. I'm passionate about building machine learning and computer vision tools for autonomous systems, specifically in robot control, scene understanding, SLAM, state estimation, and motion planning. I also enjoy deploying AI in other applications, such as healthcare, to make a meaningful impact.
 
 ## 🚀 What I'm Up To
 
