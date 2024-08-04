@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 <!--## Hi there 👋-->
 
 <!--
@@ -60,4 +60,44 @@ Here are some ideas to get you started:
 <a href="mailto:suryasin@umich.edu"><img alt="Email" src="https://img.shields.io/badge/Email-suryasin@umich.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [spsingh37](https://github.com/spsingh37)
+⭐️ From [spsingh37](https://github.com/spsingh37)-->
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+<h1 align="center">Hi 👋 I'm Surya</h1>
+
+# 💫 About Me:
+I am a graduate from the Robotics MS department of University of Michigan, working as a Perception & Learning Research Assistant at the ROAHM Lab. I'm passionate about building machine learning and computer vision tools for autonomous systems more specifically robot control, scene understanding, SLAM, state estimation, and motion planning. I also like deploying AI in other applications such as heathcare to make meaningful impact.
+
+## 🚀 What I'm Up To
+
+- 🤔 Currently looking for full-time roles
+- 🤖 Building a robust control policy for Autonomous Racing in the real world
+
+Check out my [portfolio!](https://spsingh37.github.io/)
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spsingh37/)
+[![Email](https://img.shields.io/badge/Email-suryasin@umich.edu-blue?style=flat-square&logo=gmail)](mailto:suryasin@umich.edu)
+
+# 💻 Tech Stack:
+Languages: 
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) 
+![MATLAB](https://img.shields.io/badge/matlab-%230079B1.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+
+Developer Tools: 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+Libraries/Frameworks: 
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Drools](https://img.shields.io/badge/Drools-%23FF6347.svg?style=for-the-badge&logo=drools&logoColor=white)
