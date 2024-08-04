@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 <!--## Hi there 👋-->
 
 <!--
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="umich.jpg">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+
 <h2> Hey there! I'm Surya. 👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
