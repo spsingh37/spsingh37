@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/spsingh37">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spsingh37&theme=buefy&show_icons=true" />
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=spsingh37&theme=buefy&show_icons=true" />-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spsingh37&theme=buefy&layout=compact" />
 </a>
 
@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.spsingh37.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.spsingh37.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/spsingh37/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://spsingh37.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://spsingh37.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/spsingh37/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Surya%20Pratap%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:suryasin@umich.edu"><img alt="Email" src="https://img.shields.io/badge/Email-suryasin@umich.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
