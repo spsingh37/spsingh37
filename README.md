@@ -54,15 +54,17 @@ Languages:
 </p>
 
 Developer Tools:
-<p align="center">
-  <img src="URL_TO_GIT_LOGO" alt="Git" height="40"/>
-  <img src="URL_TO_VSCODE_LOGO" alt="Visual Studio Code" height="40"/>
+<p align="left">
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/git-logo.png" alt="Git" height="40"/>
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/vscode-logo.png" alt="Visual Studio Code" height="40"/>
 </p>
 
 Libraries/Frameworks:
-<p align="center">
-  <img src="https://example.com/PyTorch_logo_black.svg.png" alt="PyTorch" width="100" height="50"/>
-  <img src="https://example.com/solidworks-logo.png" alt="SolidWorks" width="100" height="50"/>
-  <img src="https://example.com/ros-logo.png" alt="ROS" width="100" height="50"/>
-  <img src="https://example.com/mujoco-logo.jfif" alt="MuJoCo" width="100" height="50"/>
+<p align="left">
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/PyTorch_logo_black.svg.png" alt="PyTorch" width="100" height="50"/>
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/docker-logo.png" alt="Docker" width="100" height="50"/>
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/ros-logo.png" alt="ROS" width="100" height="50"/>
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/mujoco-logo.jfif" alt="MuJoCo" width="100" height="50"/>
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/OpenCV_logo_black.png" alt="OpenCV" width="100" height="50"/>
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/solidworks-logo.png" alt="SolidWorks" width="100" height="50"/>
 </p>
