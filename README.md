@@ -29,7 +29,8 @@ Developer Tools:
 Libraries/Frameworks: 
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![ROS](https://github.com/spsingh37/spsingh37/blob/main/ros-logo.png)
+<img src="https://example.com/ros-logo.png" alt="ROS" width="100" height="50">
+<!--![ROS](https://github.com/spsingh37/spsingh37/blob/main/ros-logo.png)-->
 <!--![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)-->
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-%23000000.svg?style=for-the-badge&logo=MuJoCo&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
