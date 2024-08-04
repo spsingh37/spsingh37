@@ -18,20 +18,30 @@ Check out my [portfolio!](https://spsingh37.github.io/)
 
 # 💻 Tech Stack:
 Languages: 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) 
-![MATLAB](https://img.shields.io/badge/matlab-%230079B1.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+<img src="https://github.com/spsingh37/spsingh37/blob/main/python-logo.png" alt="Python" width="75" height="30">
+<!--![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) -->
+<img src="https://github.com/spsingh37/spsingh37/blob/main/cpp-logo.png" alt="C++" width="75" height="30">
+<!--![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) -->
+<img src="https://github.com/spsingh37/spsingh37/blob/main/MATLAB-logo.png" alt="MATLAB" width="75" height="30">
+<!--![MATLAB](https://img.shields.io/badge/matlab-%230079B1.svg?style=for-the-badge&logo=mathworks&logoColor=white)-->
 
 Developer Tools: 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<img src="https://github.com/spsingh37/spsingh37/blob/main/git-logo.png" alt="Git" width="75" height="30">
+<!--![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)-->
+<img src="https://github.com/spsingh37/spsingh37/blob/main/vscode-logo.png" alt="VS Code" width="75" height="30">
+<!--![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)-->
 
 Libraries/Frameworks: 
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+<img src="https://github.com/spsingh37/spsingh37/blob/main/PyTorch_logo_black.svg.png" alt="PyTorch" width="75" height="30">
+<!--![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) -->
+<img src="https://github.com/spsingh37/spsingh37/blob/main/docker-logo.png" alt="Docker" width="75" height="30">
+<!--![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
 <img src="https://github.com/spsingh37/spsingh37/blob/main/ros-logo.png" alt="ROS" width="75" height="30">
 <!--![ROS](https://github.com/spsingh37/spsingh37/blob/main/ros-logo.png)-->
 <!--![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)-->
-![MuJoCo](https://img.shields.io/badge/MuJoCo-%23000000.svg?style=for-the-badge&logo=MuJoCo&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/solidworks-%23F00000.svg?style=for-the-badge&logo=dassault%20syst%C3%A8mes&logoColor=white)
+<img src="https://github.com/spsingh37/spsingh37/blob/main/mujoco-logo.jfif" alt="MuJoCo" width="75" height="30">
+<!--![MuJoCo](https://img.shields.io/badge/MuJoCo-%23000000.svg?style=for-the-badge&logo=MuJoCo&logoColor=white)-->
+<img src="https://github.com/spsingh37/spsingh37/blob/main/OpenCV_logo_black.png" alt="OpenCV" width="75" height="30">
+<!--![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)-->
+<img src="https://github.com/spsingh37/spsingh37/blob/main/solidworks-logo.png" alt="SolidWorks" width="75" height="30">
+<!--![SolidWorks](https://img.shields.io/badge/solidworks-%23F00000.svg?style=for-the-badge&logo=dassault%20syst%C3%A8mes&logoColor=white)-->
