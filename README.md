@@ -37,6 +37,6 @@ Libraries/Frameworks:
   <img src="https://github.com/spsingh37/spsingh37/blob/main/docker-logo.png" alt="Docker" width="100" height="35" width="70" style="display: inline; margin-right: 90px;"/>
   <img src="https://github.com/spsingh37/spsingh37/blob/main/ros-logo.png" alt="ROS" width="100" height="35" width="70" style="display: inline; margin-right: 90px;"/>
   <img src="https://github.com/spsingh37/spsingh37/blob/main/mujoco-logo.jfif" alt="MuJoCo" width="100" height="35" width="70" style="display: inline; margin-right: 90px;"/>
-  <img src="https://github.com/spsingh37/spsingh37/blob/main/OpenCV_logo_black.png" alt="OpenCV" height="35" width="65" style="display: inline; margin-right: 90px;"/>
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/OpenCV_logo_black.png" alt="OpenCV" height="30" width="65" style="display: inline; margin-right: 90px;"/>
   <img src="https://github.com/spsingh37/spsingh37/blob/main/solidworks-logo.png" alt="SolidWorks" height="35" width="70" style="display: inline; margin-right: 90px;"/>
 </p>
