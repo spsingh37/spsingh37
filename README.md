@@ -24,6 +24,12 @@ Languages:
   <img src="https://github.com/spsingh37/spsingh37/blob/main/MATLAB-logo.png" alt="MATLAB" height="50" width="70" style="display: inline; margin-right: 150px;"/>
 </p>
 
+<p align="left">
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/python-logo.png" alt="Python" height="50" width="70"/> &emsp;&emsp;
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/cpp_logo.png" alt="C++" height="50" width="70"/> &emsp;&emsp;
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/MATLAB-logo.png" alt="MATLAB" height="50" width="70"/>
+</p>
+
 Developer Tools:
 <p align="left">
   <img src="https://github.com/spsingh37/spsingh37/blob/main/git-logo.png" alt="Git" height="50" width="60" style="display: inline; margin-right: 150px;"/>
