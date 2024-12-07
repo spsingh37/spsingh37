@@ -32,10 +32,10 @@ Developer Tools:
 
 Libraries/Frameworks:
 <p align="left">
-  <img src="https://github.com/spsingh37/spsingh37/blob/main/PyTorch_logo_black.svg.png" alt="PyTorch" height="30" width="70"/> &emsp;&emsp;
-  <img src="https://github.com/spsingh37/spsingh37/blob/main/docker-logo.png" alt="Docker" width="100" height="35" width="70"/> &emsp;&emsp;
-  <img src="https://github.com/spsingh37/spsingh37/blob/main/ros-logo.png" alt="ROS" width="100" height="35" width="70"/> &emsp;&emsp;
-  <img src="https://github.com/spsingh37/spsingh37/blob/main/mujoco-logo.jfif" alt="MuJoCo" width="100" height="35" width="70"/> &emsp;&emsp;
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/PyTorch_logo_black.svg.png" alt="PyTorch" height="40" width="70"/> &emsp;&emsp;
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/docker-logo.png" alt="Docker" width="100" height="40" width="70"/> &emsp;&emsp;
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/ros-logo.png" alt="ROS" width="100" height="40" width="70"/> &emsp;&emsp;
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/mujoco-logo.jfif" alt="MuJoCo" width="100" height="40" width="70"/> &emsp;&emsp;
   <img src="https://github.com/spsingh37/spsingh37/blob/main/OpenCV_logo_black.png" alt="OpenCV" height="40" width="60"/> &emsp;&emsp;
-  <img src="https://github.com/spsingh37/spsingh37/blob/main/solidworks-logo.png" alt="SolidWorks" height="35" width="70"/>
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/solidworks-logo.png" alt="SolidWorks" height="40" width="70"/>
 </p>
