@@ -32,7 +32,7 @@ Developer Tools:
 
 Libraries/Frameworks:
 <p align="left">
-  <img src="https://github.com/spsingh37/spsingh37/blob/main/PyTorch_logo_black.svg.png" alt="PyTorch" height="40" width="70"/> &emsp;&emsp;
+  <img src="https://github.com/spsingh37/spsingh37/blob/main/PyTorch_logo_black.svg.png" alt="PyTorch" height="37" width="70"/> &emsp;&emsp;
   <img src="https://github.com/spsingh37/spsingh37/blob/main/docker-logo.png" alt="Docker" width="100" height="40" width="70"/> &emsp;&emsp;
   <img src="https://github.com/spsingh37/spsingh37/blob/main/ros-logo.png" alt="ROS" width="100" height="40" width="70"/> &emsp;&emsp;
   <img src="https://github.com/spsingh37/spsingh37/blob/main/mujoco-logo.jfif" alt="MuJoCo" width="100" height="40" width="70"/> &emsp;&emsp;
