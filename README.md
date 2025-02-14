@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 I'm Surya</h1>
 
 # 💫 About Me:
-I am a Robotics MS graduate student at the University of Michigan and currently work as a Research Assistant at the CURLY Lab. I'm passionate about building machine learning and computer vision tools for autonomous systems, specifically in robot control, scene understanding, SLAM, state estimation, and motion planning. I also enjoy deploying AI in other applications, such as healthcare, to make a meaningful impact.
+I am a Research Engineer at the Computational Autonomy and Robotics (CURLY) Lab at the University of Michigan. I am passionate about developing and applying machine learning and computer vision techniques to autonomous robotic systems, with a focus on SLAM, 3D vision, perception, reinforcement learning, state estimation, and motion planning. Additionally, I enjoy exploring AI applications in other domains, such as healthcare, to drive meaningful impact.
 
 ## 🚀 What I'm Up To
 
